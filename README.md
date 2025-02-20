@@ -46,6 +46,9 @@ Create the file `BackEnd/config.env` with your Atlas/Compass URI and the server 
 ```
 REACT_APP_API_URL = your backend api with port
 ```
+Deployed project:-
+-----------------
+https://task-manager-application-ten-nu.vercel.app/
 **BackEnd**
 ```
 MONGO_URL = your mongoDb url either from atlas/Compass or from localhost shell
